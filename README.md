@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @gwil02
-- 👀 I’m interested in programming and computers as a whole
-- 🌱 I’m currently learning IT and progrmaming
-- 📫 How to reach me: gwilson002@outlook.com
+
